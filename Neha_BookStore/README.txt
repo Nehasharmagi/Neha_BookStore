@@ -31,5 +31,5 @@ i create my README file for what i can do till now and at end of the project....
 
 1240
 
-I upload my project to github accpunt 
+I upload my project to github accpunt
 
